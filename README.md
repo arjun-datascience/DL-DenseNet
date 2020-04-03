@@ -15,11 +15,11 @@ EDA of the data was done to understand the various class of the image and effect
 
 ## Hyper Parameters:
 
-Batch Size - 32,48,64,128,256
-Epoch - 10,15,20,30,35,40,50,70
-Optimizer - RMSprop (with weight decay), SGD (with & without momentum and weight decay)
-Transformation - Rotation_Range = 10 , Horizontal Flip , Normalization by mean and Std Dev
-Learning Rate - Dynamic learning rate
+Batch Size - 32,48,64,128,256 </br>
+Epoch - 10,15,20,30,35,40,50,70 </br>
+Optimizer - RMSprop (with weight decay), SGD (with & without momentum and weight decay) </br>
+Transformation - Rotation_Range = 10 , Horizontal Flip , Normalization by mean and Std Dev </br>
+Learning Rate - Dynamic learning rate </br>
 
 
 ## Results
