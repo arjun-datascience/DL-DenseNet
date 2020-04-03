@@ -24,3 +24,4 @@ Learning Rate - Dynamic learning rate
 
 ## Results
 	 Accuracy  : 91.09%
+	 The model file for this Accuracy can be found in the branch with name : cifar10_densenet_model.35.h5
